@@ -1,0 +1,34 @@
+{
+  "photos": [
+    {
+      "name": "City",
+      "author": "Pandora Kuseeesaa",
+      "url": "./assets/img/city.jpg"
+    },
+    {
+      "name": "Hills",
+      "author": "Ricky Gerard",
+      "url": "./assets/img/hills.jpg"
+    },
+    {
+      "name": "Mountains",
+      "author": "Sammy Sumspon",
+      "url": "./assets/img/mountains.jpg"
+    },
+    {
+      "name": "Panoramic",
+      "author": "Elge Brutsk",
+      "url": "./assets/img/panoramic.jpg"
+    },
+    {
+      "name": "Snow",
+      "author": "Vieta Brown",
+      "url": "./assets/img/snow.jpg"
+    },
+    {
+      "name": "Winter",
+      "author": "Victor Hrump",
+      "url": "./assets/img/winter.jpg"
+    }
+  ]
+}
